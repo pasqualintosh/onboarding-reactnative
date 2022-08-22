@@ -12,7 +12,7 @@
 
 [https://thecodingmachine.github.io/react-native-boilerplate/docs/ReduxStore](https://thecodingmachine.github.io/react-native-boilerplate/docs/ReduxStore)
 
-#### 4 useHook + useStore
+#### 4 customHook + redux toolkit
 
 #### 5 services (integrazione api)
 
