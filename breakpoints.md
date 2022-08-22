@@ -12,7 +12,9 @@
 
 #### 4 useHook + useStore
 
-#### 5 boilerplate con Expo
+#### 5 services (integrazione api)
+
+#### 6 boilerplate con Expo
 
 [https://docs.expo.dev/](https://docs.expo.dev/)
 (puoi seguire anche il PRIMO link per installazione)
