@@ -4,6 +4,8 @@
 
 [https://reactnative.dev/docs/next/environment-setup](https://reactnative.dev/docs/next/environment-setup)
 
+#### 1.1 linux (opzionale)
+
 #### 2 start progetto RN vuoto
 
 #### 3 start progetto RN con boilerplate
